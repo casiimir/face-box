@@ -1,4 +1,13 @@
-.Tilt {
-  background: linear-gradient(to top, rgba(255, 147, 97, 0.199), rgba(78, 21, 35, 0.199));
-  border: 2px solid rgba(0, 0, 0, 0.26);
+.card {
+  background: linear-gradient(to top, rgba(247, 164, 87, 0.329), rgba(78, 21, 35, 0.199));
+}
+
+.face-box {
+  font-size: 3em;
+  margin: 0;
+}
+
+img {
+  width: 100px;
+  opacity: 0.8;
 }
