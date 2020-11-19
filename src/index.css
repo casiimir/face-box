@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Space+Grotesk&display=swap');
+
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: 'Space Grotesk', sans-serif;
+  height: 100vh;
+  background: linear-gradient(to top, rgba(197, 114, 75, 0.932), rgb(124, 41, 62));
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: whitesmoke;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.26);
+}
+
+.background{
+  background: url('./pattern.png');
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

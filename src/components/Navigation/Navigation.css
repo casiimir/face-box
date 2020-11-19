@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sign-out { 
+  background-color: rgba(0, 0, 0, 0.103);
+  color: white;
+  border: 1px solid rgba(0, 0, 0, 0.123);
+  margin-right: 15px;
+}
+
+.sign-out:hover {
+  background-color: rgba(0, 0, 0, 0.322);
+}
