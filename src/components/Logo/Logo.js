@@ -6,9 +6,9 @@ import './Logo.css';
 const Logo = () => {
   return (
     <div className='ma4 mt0 center'>
-      <Tilt className="card br2 shadow-2" options={{ max : 25 }} style={{ height: 200, width: 200 }} >
+      <Tilt className="card br2 shadow-2" options={{ max : 25 }} style={{ height: 150, width: 150 }} >
         <div>
-          <img className="pt3" src={ icon } alt="icon-image-scanner"/>
+          <img className="logo pt3" src={ icon } alt="icon-image-scanner"/>
           <h1 className="face-box">FaceBox</h1>
         </div>
       </Tilt>

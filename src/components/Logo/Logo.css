@@ -1,5 +1,5 @@
 .card {
-  background: linear-gradient(to top, rgba(247, 164, 87, 0.329), rgba(78, 21, 35, 0.199));
+  background: linear-gradient(to top, rgba(233, 152, 115, 0.479), rgba(117, 36, 57, 0.267));
 }
 
 .face-box {
@@ -7,7 +7,8 @@
   margin: 0;
 }
 
-img {
-  width: 100px;
+.logo {
+  width: 70px;
   opacity: 0.8;
+  margin-top: 20px;
 }

@@ -9,6 +9,11 @@ body {
   background: linear-gradient(to top, rgba(197, 114, 75, 0.932), rgb(124, 41, 62));
 }
 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+
 h1 {
   font-family: 'Lobster', cursive;
   color: whitesmoke;
@@ -26,6 +31,6 @@ h1 {
   z-index: -1;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+.tester {
+  border: 2px solid black;
 }
