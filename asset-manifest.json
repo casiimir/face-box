@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/face-box/static/css/main.39a1936b.chunk.css",
-    "main.js": "/face-box/static/js/main.d696c04b.chunk.js",
-    "main.js.map": "/face-box/static/js/main.d696c04b.chunk.js.map",
+    "main.css": "/face-box/static/css/main.0b392d68.chunk.css",
+    "main.js": "/face-box/static/js/main.fa51b7e9.chunk.js",
+    "main.js.map": "/face-box/static/js/main.fa51b7e9.chunk.js.map",
     "runtime-main.js": "/face-box/static/js/runtime-main.89b162ca.js",
     "runtime-main.js.map": "/face-box/static/js/runtime-main.89b162ca.js.map",
     "static/css/2.31461e4f.chunk.css": "/face-box/static/css/2.31461e4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1f968ea3.chunk.js.map": "/face-box/static/js/3.1f968ea3.chunk.js.map",
     "index.html": "/face-box/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/face-box/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.39a1936b.chunk.css.map": "/face-box/static/css/main.39a1936b.chunk.css.map",
+    "static/css/main.0b392d68.chunk.css.map": "/face-box/static/css/main.0b392d68.chunk.css.map",
     "static/js/2.76d70af5.chunk.js.LICENSE.txt": "/face-box/static/js/2.76d70af5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/face-box/static/media/pattern.3866732b.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.89b162ca.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.76d70af5.chunk.js",
-    "static/css/main.39a1936b.chunk.css",
-    "static/js/main.d696c04b.chunk.js"
+    "static/css/main.0b392d68.chunk.css",
+    "static/js/main.fa51b7e9.chunk.js"
   ]
 }
