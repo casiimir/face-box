@@ -1,3 +1,6 @@
+<h1>FaceBox</h1>
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHjxh6X2eHFAA/feedshare-shrink_1280-alternative/0?e=1608768000&v=beta&t=I4ulRb08QFuML3jM6nN6jPC4N5a5YmotSPxWVWqZkBY" alt="facebox-app">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
