@@ -1,6 +1,6 @@
 # FaceBox
 
-## when science and magic get together, crazy things happen!
+## When science and magic get together, crazy things happen!
 
 This Magic App will reveal faces in your photo.
 
