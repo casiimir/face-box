@@ -1,12 +1,14 @@
-<h1>FaceBox</h1>
+# FaceBox
 
-# when science and magic get together, crazy things happen!
+## when science and magic get together, crazy things happen!
 
 This Magic App will reveal faces in your photo.
 
 ## In this project, I used React: Props, States, Children, Router, Clarifi's Api, Asyncronous, ...
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHjxh6X2eHFAA/feedshare-shrink_1280-alternative/0?e=1608768000&v=beta&t=I4ulRb08QFuML3jM6nN6jPC4N5a5YmotSPxWVWqZkBY" alt="facebox-app" width="350">
+
+### Put a photo url format and click the button (no registration required!)
 
 In the project directory, you can run:
 
