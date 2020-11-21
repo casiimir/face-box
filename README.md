@@ -1,11 +1,12 @@
 <h1>FaceBox</h1>
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHjxh6X2eHFAA/feedshare-shrink_1280-alternative/0?e=1608768000&v=beta&t=I4ulRb08QFuML3jM6nN6jPC4N5a5YmotSPxWVWqZkBY" alt="facebox-app">
 
 # when science and magic get together, crazy things happen!
 
 This Magic App will reveal faces in your photo.
 
 ## In this project, I used React: props, states, children, router, Clarifi's Api
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHjxh6X2eHFAA/feedshare-shrink_1280-alternative/0?e=1608768000&v=beta&t=I4ulRb08QFuML3jM6nN6jPC4N5a5YmotSPxWVWqZkBY" alt="facebox-app" width="300">
 
 In the project directory, you can run:
 
